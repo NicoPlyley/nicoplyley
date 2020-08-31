@@ -59,12 +59,6 @@ Due to the nature of my work, I have to keep my client's sites private. However,
 <br />
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoplyley&show_icons=true" alt="nicoplyley" />
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoplyley&layout=compact&hide=html" alt="nicoplyley" />
-</p>
-<br />
-<p align="center">
   <img  src="https://komarev.com/ghpvc/?username=nicoplyley" alt="nicoplyley" />
 </p>
 
