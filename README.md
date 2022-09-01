@@ -5,7 +5,7 @@
 
 - 🔭 I currently **run a web development agency**
 
-- 🤝 I’m looking for **react developers**
+- 🤝 I’m looking for **svelte developers**
 
 - 📫 How to reach me **nico@luxwaymedia.com**
 
