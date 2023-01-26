@@ -7,9 +7,7 @@
 
 - 🤝 I’m looking for **svelte developers**
 
-- 📫 How to reach me **nico@luxwaymedia.com**
-
-- ⚡ Fun fact **I work full time as a keeper at a large animal preserve 🐯**
+- 📫 How to reach me **nico@phoenixtechlab.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
