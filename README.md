@@ -2,7 +2,7 @@
 
 🚀 Self-taught full-stack web developer since the age of ten.
 
-💼 Founder of Phoenix Tech Lab - xperts in Revitalizing Your Online Presence
+💼 Founder of Phoenix Tech Lab - Experts in Revitalizing Your Online Presence
 
 💻 Currently crafting the web with Hono and SvelteKit.
 
